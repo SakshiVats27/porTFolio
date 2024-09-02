@@ -1,0 +1,122 @@
+[
+  {
+    "name": "My-Portfolio",
+    "desc": "My personal portfolio website,built using react + vite showcases my skills, projects, and professional experience, providing a dynamic and modern way to present my work.",
+    "image": "myPortfolio",
+    "category": "react+vite",
+    "links": {
+      "view": "https://my-portfolio-two-tau-26.vercel.app/",
+      "code": "https://github.com/SakshiVats27/My-Portfolio"
+    }
+  },
+  {
+    "name": "CGPA Booster",
+    "desc": "Online learning platform that provides important handwritten notes, lectures ppt, question banks and other learning materials.",
+    "image": "cgpaBooster",
+    "category": "basicweb",
+    "links": {
+      "view": "https://cgpabooster.in/",
+      "code": "https://cgpabooster.in/"
+    }
+  },
+  {
+    "name": "Weather Forecasting",
+    "desc": "weather forecatsing built using html,css,js and openweathermap api. Provides weather forecast.",
+    "image": "weatherforecasting",
+    "category": "basicweb",
+    "links": {
+      "view": "https://weather-forecasting-eight.vercel.app/",
+      "code": "https://github.com/SakshiVats27/Weather-forecasting"
+    }
+  },
+  {
+    "name": "Moments and Miles",
+    "desc": "Full-Stack tour booking website built using MERN stack with api integration that helps in booking tour packages.",
+    "image": "mnm",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/SakshiVats27/mern-tour-website",
+      "code": "https://github.com/SakshiVats27/mern-tour-website"
+    }
+  },
+  {
+    "name": "Link Cloud",
+    "desc": "Built with basic HTML and CSS, this project provides a clean and straightforward way to showcase your links, making it easier for visitors to connect with you across various platforms.",
+    "image": "LinkCloud",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sakshivats27.github.io/LinkCloud/",
+      "code": "https://github.com/SakshiVats27/LinkCloud"
+    }
+  },
+  {
+    "name": "Hotstar Clone",
+    "desc": "This project aims to mirror the Disney+ Hotstar, offering a vast array of entertainment options including movies, TV shows, live sports, and more.",
+    "image": "hotstarclone",
+    "category": "basicweb",
+    "links": {
+      "view": "https://hotstar-clone-topaz.vercel.app/",
+      "code": "https://github.com/SakshiVats27/Hotstar-Clone"
+    }
+  },
+  {
+    "name": "Login Page",
+    "desc": "It is an animated login page designed using HTML, CSS, and JavaScript.",
+    "image": "loginpage",
+    "category": "basicweb",
+    "links": {
+      "view": "https://login-signup-animated-page.vercel.app/",
+      "code": "https://github.com/SakshiVats27/Login-Page"
+    }
+  },
+  {
+    "name": "TO-DO",
+    "desc": "To Do List is a simple web app created using HTML, CSS and JavaScript. ",
+    "image": "todo",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sakshi-vats-todolist.vercel.app/",
+      "code": "https://github.com/SakshiVats27/To-Do-List"
+    }
+  },
+  {
+    "name": "Word Count",
+    "desc": "This simple webpage provides functionality to count the number of words and characters in a given text. Built with HTML, CSS, and JavaScript. ",
+    "image": "wordcount",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sakshivats27.github.io/Word-Count-Checker/",
+      "code": "https://github.com/SakshiVats27/Word-Count-Checker"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Basic Calculator designed ",
+    "image": "todo",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/SakshiVats27/Calculator",
+      "code": "https://github.com/SakshiVats27/Calculator"
+    }
+  },
+  {
+    "name": "Currency Converter",
+    "desc": "Using C++, Currency Converter",
+    "image": "todo",
+    "category": "c++",
+    "links": {
+      "view": "https://github.com/SakshiVats27/currency-converter",
+      "code": "https://github.com/SakshiVats27/currency-converter"
+    }
+  },
+  {
+    "name": "Student Management System",
+    "desc": "This code implements a simple console-based Student Management System in C++ that allows users to add, update, search, display, and delete student records.",
+    "image": "todo",
+    "category": "c++",
+    "links": {
+      "view": "https://github.com/SakshiVats27/student-management-system",
+      "code": "https://github.com/SakshiVats27/student-management-system"
+    }
+  }
+]
